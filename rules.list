@@ -59,9 +59,6 @@ DOMAIN-SUFFIX,ixigua.com,IP
 # ======= 文叔叔 ======= #
 DOMAIN,www.wenshushu.cn,IP
 
-# ======= 酷安 ======= #
-DOMAIN,api.coolapk.com,IP
-
 # ======= 豆瓣 ======= #
 # iOS客户端，目前无法可靠地处理iOS端的请求，建议全局代理
 IP-CIDR,119.29.29.98/32,REJECT
